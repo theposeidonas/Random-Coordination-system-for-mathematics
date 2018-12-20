@@ -1,2 +1,2 @@
-# Random-Coordination-system-for-mathematics
+# Random Coordination System for Mathematics
 Student project for Object Oriented Programming
